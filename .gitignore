@@ -1,3 +1,7 @@
-# 超过 GitHub 100MB 限制的视频，需压缩后再加
-works/motion/words-unsaid.mp4
-works/motion/yueyun-brand.mp4
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
